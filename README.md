@@ -1,1 +1,1 @@
-# JCPAssignment
+This is a interview project for JCPenny Ui developer position
